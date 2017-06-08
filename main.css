@@ -1,3 +1,9 @@
 body {
-  background:green;
+    background: green;
+}
+
+.theMessage {
+    height: 5em;
+    width: 10em;
+    background-color: red;
 }
