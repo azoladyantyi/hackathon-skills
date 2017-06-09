@@ -1,48 +1,49 @@
-# gh-trix
+# Hackathon skills workshop
 
+# Git & Github
 
-## Do this one user after the other
+Working in groups using Git & GitHub introduction.
 
-### User 1:
+Do this [GitHub Kata](https://github.com/codex-academy/github-in-pairs-kata).
 
-* Add a html file called `index.html`
-* Commit to Git and push to GitHub
+# Responsive design intro:
 
-### User 2
+Use [Bootstrap](getbootstrap.com) or [Skeleton CSS](getskeleton.com) for the hackathon. Or your own responsive CSS if you checked your layout approach with Andre. Your layout **must** to be responsive.
 
-* Pull from GitHub using : `git pull`
-* Add `main.css` and link it to `index.html`
-* Commit to Git and push to GitHub
+A simple responsive website:
 
-### User 1
+Very simple responsive website here: https://github.com/avermeulen/responsive-design-intro
 
-* Pull from GitHub using : `git pull`
-* Add a background color to web page in `main.css`
-* Commit to Git and push to GitHub
+* https://avermeulen.github.io/responsive-design-intro/
+* https://github.com/avermeulen/responsive-design-intro
 
-### User 2
+There is a video in treehouse about responsive layout intros: https://teamtreehouse.com/library/responsive-layouts
 
-* Pull from GitHub using : `git pull`
-* Add a file called `main.js`
-* Link it to `index.html`
-* Commit to Git and push to GitHub
+## Data visualization
 
-### User 1
+How to create graphs in JS using Chart JS: http://www.chartjs.org/
 
-* Pull from GitHub using : `git pull`
-* Add a div to index.html with a className of `theMessage`
-* Style `theMessage` div to height of `5em` and a with of `10em` and a different color to your pages color.
+There's some test data to create graphs for here: https://api-tutor.herokuapp.com/v1/cars
 
-## Now at the same time
+Read more about the API here: https://github.com/avermeulen/api-tutor
 
-### User 2
+## Sorting, grouping & finding data
 
-Create a new div in `index.html` with a message of `This is a new div` with a class of `messageTwo`. Style `messageTwo` with a unique background color in `main.css`. Commit and push to GitHub once done.
+Look at the `filter` and `find` methods on JavaScript Arrays.
+How to use lodash to group data.
 
-### User 1
+Learn more [here](./data-trix.md)
 
-Create a new div in `index.html` with a message of `This is another div!` with a class of `messageThree`. Style `messageThree` with a unique background color in `main.css`. Commit and push to GitHub once done.
+## Do this
 
-### User 1 & User 2
+In pairs create a website with two different type of [Chart.js charts](chartjs.org)  along side each other. When the website is made smaller the graphs should be displayed below each other. Deploy the Github pages. Use data from the https://api-tutor.herokuapp.com/v1/cars API.
 
-Both pull! **Conflict time!**
+Create a graph for two of these:
+
+* Cars grouped by make
+* Cars grouped by colors
+* Cars total cost per brand
+* Cars total cost by colors
+* Cars grouped by make and color
+* Cars grouped by make and model
+* Cars grouped by reg numbers

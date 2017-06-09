@@ -1,5 +1,6 @@
 body {
-    background: green;
+    font-family: Arial;
+    background: powderblue;
 }
 
 .theMessage {
@@ -20,4 +21,34 @@ body {
     height: 5em;
     width: 10em;
     background-color: yellow;
+}
+
+
+.bar {
+    width : 3em;
+    height: 4em;
+    background-color: purple;
+    float: left;
+    margin : 0.1em;
+}
+
+.one {
+    height: 7em;
+}
+.two {
+    height: 13em;
+}
+.three {
+    height: 5em;
+}
+.four {
+    height: 4em;
+}
+
+.car {
+    padding-bottom: 1em;
+    border : 1px solid;
+    width : 15em;
+    padding : 0.5em;
+    margin : 0.5em;
 }
