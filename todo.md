@@ -8,14 +8,14 @@ Working in groups using Git & GitHub introduction.
 
 Very simple responsive website here: https://github.com/avermeulen/responsive-design-intro
 
-Want them to use Bootstrap or Skeleton CSS for the hackathon. So will do a quick intro on that
+Want them to use [Bootstrap](getbootstrap.com) or [Skeleton CSS](getskeleton.com) for the hackathon.
 
 A simple responsive website:
 
 https://avermeulen.github.io/responsive-design-intro/
 https://github.com/avermeulen/responsive-design-intro
 
-There is a video in treehouse about responsive layout intros: https://teamtreehouse.com/library/responsive-layouts - but it might be too much for tomorrow and next week.
+There is a video in treehouse about responsive layout intros: https://teamtreehouse.com/library/responsive-layouts
 
 ## Data visualization
 
@@ -25,7 +25,7 @@ There's some test data to create graphs for here: https://api-tutor.herokuapp.co
 
 Read more about the API here: https://github.com/avermeulen/api-tutor
 
-# Sorting, grouping & finding data
+## Sorting, grouping & finding data
 
 How to use lodash to group data.
 Look at the filter and find methods on JavaScript Arrays.
