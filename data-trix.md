@@ -84,4 +84,4 @@ console.log(shortestWord);
 * [_.take](https://lodash.com/docs/4.17.4#take)
 * [_.groupBy](https://lodash.com/docs/4.17.4#groupBy)
 
-There are lots more useful functions, see which ones do you find useful.
+There are lots more useful functions, see which other functions you find useful.
