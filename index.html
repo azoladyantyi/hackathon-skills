@@ -10,6 +10,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/colors/1.0/colors.min.css" />
 
     <style media="screen">
+        body{
+            font-family: Arial;
+        }
+
+        .container{
+            width: 80%;
+            margin : auto;
+        }
         .data {
             width: 400px;
         }
@@ -17,10 +25,14 @@
 </head>
 
 <body>
-    <h1>Chart example</h1>    
-    <div class="data">
-        <canvas id="myChart" width="200" height="200"></canvas>
+
+    <div class="container">
+        <h1>Chart example</h1>
+        <div class="data">
+            <canvas id="myChart" width="200" height="200"></canvas>
+        </div>
     </div>
+
     <script src="my-chart.js" charset="utf-8"></script>
 </body>
 
