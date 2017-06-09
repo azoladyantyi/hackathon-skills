@@ -27,9 +27,9 @@ Look at an example graph [here](/)
 
 There's some test data to create graphs for here: https://api-tutor.herokuapp.com/v1/cars
 
-The the API data used here: https://api-tutor.herokuapp.com/
+See the API data used here: https://api-tutor.herokuapp.com/ - look at the JS to see how to call the API and use the data with the DOM.
 
-Read more about the API here: https://github.com/avermeulen/api-tutor
+All the source code is here: https://github.com/avermeulen/api-tutor
 
 ## Sorting, grouping & finding data
 
