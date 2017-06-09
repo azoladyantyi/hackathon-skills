@@ -23,7 +23,7 @@ There is a video in treehouse about responsive layout intros: https://teamtreeho
 
 How to create graphs in JS using Chart JS: http://www.chartjs.org/
 
-Look at an example graph [here](/)
+Look at an example graph [here](https://codex-academy.github.io/hackathon-skills/)
 
 There's some test data to create graphs for here: https://api-tutor.herokuapp.com/v1/cars
 
